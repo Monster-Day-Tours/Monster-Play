@@ -1,25 +1,11 @@
 ---
 name: Bug report
 about: Write in detail the issue you faced when using Monster Play app
-title: "[Android/iOS] [Name of Tour] Title of the bug"
+title: Title of the bug
 labels: ''
 assignees: ''
 
 ---
-
-** Name the bug **
-Please select the correct options as the Bug report name (an example):
-[Android] [Chinatown] Thian Hock Keng Temple has wrong name
-Tours:
-  1) Chinatown
-  2) Little India
-  3) Kampung Glam
-  4) Marina Bay
-  5) Singapore City
-  6) Changi Airport
-  7) Michelin & Local Hawker Food
-  8) Food & Night
-  9) General [This type will contain bugs that are not related to any tours (eg. Issue found in rewards page)]
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -43,4 +29,18 @@ If applicable, add screenshots to help explain your problem.
  - Version [e.g. 22]
 
 **Additional context**
-Add any other context about the problem here.
+Please select the corresponding labels for the Bug report.
+Tours:
+  1) Chinatown
+  2) Little India
+  3) Kampung Glam
+  4) Marina Bay
+  5) Singapore City
+  6) Changi Airport
+  7) Michelin & Local Hawker Food
+  8) Food & Night
+  9) General [This type will contain bugs that are not related to any tours (eg. Issue found in rewards page)]
+
+OS:
+  1) iOS
+  2) Android
