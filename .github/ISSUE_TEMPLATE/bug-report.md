@@ -1,34 +1,34 @@
 ---
 name: Bug report
 about: Write in detail the issue you faced when using Monster Play app
-title: Title of the bug
+title: Title of the bug  错误的标题
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
+**Describe the bug 描述错误**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+**To Reproduce 重现**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+**Expected behavior 预期行为**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
+**Screenshots 截图**
 If applicable, add screenshots to help explain your problem.
 
-**Smartphone (please complete the following information):**
+**Smartphone (please complete the following information): 智能手机（请填写以下信息）：**
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
  - Version [e.g. 22]
 
-**Additional context**
+**Additional context 附加上下文**
 Please select the corresponding labels for the Bug report.
 Tours:
   1) Chinatown
