@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Write in detail the issue you faced when using Monster Play app
-title: "[Android/iOS] [Name of Tour]"
+title: "[Android/iOS] [Name of Tour] Title of the bug"
 labels: ''
 assignees: ''
 
